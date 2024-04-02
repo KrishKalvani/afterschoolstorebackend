@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# link to github repository
+https://github.com/KrishKalvani/afterschoolstorebackend
